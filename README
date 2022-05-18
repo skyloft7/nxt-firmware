@@ -1,3 +1,11 @@
+# Forked by skyloft7 from dlech/nxt-firmware
+
+I keep this repo around because I still own a Lego Mindstorms NXT 2.0 (in 2022, yeah!) and wanna
+tinker with it's firmware every once in a while. Hopefully one day I'll get an EV3 or Robot Inventor :)
+
+
+# This is the original readme content
+
 This is NXT Improved Firmware, an open source community driven work based on
 the original LEGO Mindstorms NXT firmware.
 
